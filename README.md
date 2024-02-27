@@ -6,7 +6,6 @@ Also, I used a burner wallet. Should I do something about that if I want to rece
 
 ## Describe alternatives you've considered
 Better step by step setup node
-
 Execute each command sequentially by copying and pasting them one-by-one. Make sure to wait for completion before proceeding to the next!
 
 sudo apt-get update sudo apt-get install ca-certificates curl apt install gnupg apt install lsb-release
