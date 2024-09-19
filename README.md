@@ -19,4 +19,4 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli http://containerd.io docker-compose-plugin
 
 ## Additional context
-Additional context here.
+Additional context here
