@@ -5,6 +5,7 @@ A simple tutorial is good, but the step by step on https://taiko.xyz/docs/guides
 Also, I used a burner wallet. Should I do something about that if I want to receive the famous airdrop?
 
 ## Describe alternatives you've considered
+
 Better step by step setup node
 Execute each command sequentially by copying and pasting them one-by-one. Make sure to wait for completion before proceeding to the next!
 
